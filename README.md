@@ -27,8 +27,7 @@ A simple JavaScript project for practicing DOM manipulation.
 ##  Technologies Used
 
 - HTML5
-- CSS3 (via [Bootstrap 4](https://getbootstrap.com/docs/4.3/))
-- JavaScript (vanilla)
+- JS DOM
 
 ##  Folder Structure
 
